@@ -22,9 +22,16 @@ A passionate developer from **Mumbai, India**. I thrive on creating dynamic web 
 - [**Age_Calculator**](https://github.com/NikhilVerma-10/Age_Calculator): A simple tool to calculate age based on birthdate using JavaScript. (⭐ 0 stars)
 - [**NikhilVerma-10**](https://github.com/NikhilVerma-10/NikhilVerma-10): My personal GitHub profile README. (⭐ 0 stars)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilVerma-10&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NikhilVerma-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NikhilVerma-10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilVerma-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NikhilVerma-10&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - **Public Repositories**: 5
 - **Followers**: 0
