@@ -42,9 +42,10 @@ A passionate developer from **Mumbai, India**. I thrive on creating dynamic web 
 
 ## Top Projects
 
-- [**Instagram-clone**](https://github.com/NikhilVerma-10/Instagram-clone): A simple Instagram clone built with HTML and CSS. (⭐ 0 stars)
-- [**Tic_Tac_Toe_Game & Stone_Papper_Scissors**](https://github.com/NikhilVerma-10/javascriptGame): A classic Tic Tac Toe and A fun game of Rock, Paper, Scissors game implemented in JavaScript. (⭐ 0 stars)
-- [**NikhilVerma-10**](https://github.com/NikhilVerma-10/NikhilVerma-10): My personal GitHub profile README. (⭐ 0 stars)
+- [**ToolsAndComponentHub**](https://github.com/NikhilVerma-10/Tools_and_Component_Hub): A simple combine webpage of Tools and UI component.
+- [**Instagram-clone**](https://github.com/NikhilVerma-10/Instagram-clone): A simple Instagram clone built with HTML and CSS.
+- [**Tic_Tac_Toe_Game & Stone_Papper_Scissors**](https://github.com/NikhilVerma-10/javascriptGame): A classic Tic Tac Toe and A fun game of Rock, Paper, Scissors game implemented in JavaScript.
+- [**NikhilVerma-10**](https://github.com/NikhilVerma-10/NikhilVerma-10): My personal GitHub profile README.
   
 [![](https://visitcount.itsvg.in/api?id=NikhilVerma-10&icon=0&color=0)](https://visitcount.itsvg.in)
 
