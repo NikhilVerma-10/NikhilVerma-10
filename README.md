@@ -43,9 +43,7 @@ A passionate developer from **Mumbai, India**. I thrive on creating dynamic web 
 ## Top Projects
 
 - [**Instagram-clone**](https://github.com/NikhilVerma-10/Instagram-clone): A simple Instagram clone built with HTML and CSS. (⭐ 0 stars)
-- [**Tic_Tac_Toe_Game**](https://github.com/NikhilVerma-10/Tic_Tac_Toe_Game): A classic Tic Tac Toe game implemented in JavaScript. (⭐ 0 stars)
-- [**Stone_Papper_Scissors**](https://github.com/NikhilVerma-10/Stone_Papper_Scissors): A fun game of Rock, Paper, Scissors developed in JavaScript. (⭐ 0 stars)
-- [**Age_Calculator**](https://github.com/NikhilVerma-10/Age_Calculator): A simple tool to calculate age based on birthdate using JavaScript. (⭐ 0 stars)
+- [**Tic_Tac_Toe_Game & Stone_Papper_Scissors**](https://github.com/NikhilVerma-10/javascriptGame): A classic Tic Tac Toe and A fun game of Rock, Paper, Scissors game implemented in JavaScript. (⭐ 0 stars)
 - [**NikhilVerma-10**](https://github.com/NikhilVerma-10/NikhilVerma-10): My personal GitHub profile README. (⭐ 0 stars)
   
 [![](https://visitcount.itsvg.in/api?id=NikhilVerma-10&icon=0&color=0)](https://visitcount.itsvg.in)
